@@ -1,0 +1,11 @@
+rule,land_price,distance,public_transport,housing
+1,cheap,not far,no,yes
+2,medium,not far,no,yes
+3,expensive,not far,no,yes
+4,expensive,far,no,no
+5,expensive,medium,no,no
+6,medium,far,yes,no
+7,cheap,far,yes,no
+8,cheap,medium,no,yes
+9,expensive,far,yes,no
+10,medium,medium,yes,yes
